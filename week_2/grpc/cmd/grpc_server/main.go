@@ -20,6 +20,8 @@ type server struct {
 	desc.UnimplementedNoteV1Server
 }
 
+// ......
+
 // Get ...
 func (s *server) Get(ctx context.Context, req *desc.GetRequest) (*desc.GetResponse, error) {
 	log.Printf("Note id: %d", req.GetId())
