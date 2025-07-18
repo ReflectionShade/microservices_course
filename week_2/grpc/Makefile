@@ -33,3 +33,6 @@ docker-build-and-push:
 	docker push cr.selcloud.ru/olezhek28/test-server:v0.0.1
 
 # testing
+# testing 2
+# testing 3333
+# test test test 
