@@ -32,3 +32,4 @@ docker-build-and-push:
 	docker login -u token -p CRgAAAAA6ELvdoGnA7EL4qSbkICKeDkVldDC2OOU cr.selcloud.ru/olezhek28
 	docker push cr.selcloud.ru/olezhek28/test-server:v0.0.1
 
+# testing
