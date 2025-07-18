@@ -14,6 +14,8 @@ import (
 	desc "github.com/olezhek28/microservices_course/week_2/grpc/pkg/note_v1"
 )
 
+// testing
+
 const grpcPort = 50051
 
 type server struct {
