@@ -14,7 +14,3 @@ COPY --from=builder /github.com/olezhek28/microservices_course/week_2/grpc/sourc
 CMD ["./crud_server"]
 
 # fasf
-
-# testing
-
-# features grpc
