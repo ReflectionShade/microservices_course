@@ -33,3 +33,4 @@ docker-build-and-push:
 	docker push cr.selcloud.ru/olezhek28/test-server:v0.0.1
 # finnaly !! ! ! !! !
 # finnaly branch 6 |<.>|
+# its note finnaly...[branch7] >.<
